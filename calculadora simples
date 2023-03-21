@@ -7,7 +7,7 @@ background-color: #ccccff;
 </style>
 <title>calculadora simples/title>
 <center>
-<input type="text" id="vlr1"><br>
+<input type="text" id="vlrone"><br>
 <input type="text" id="vlr2"><br>
 <button id="soma">+</button>
 <button id="subtracao">-</button>
